@@ -1,6 +1,33 @@
 # random
 
 # cool stuff to try
+
+# Try using these tools
+## Nettap (Network Tap)
+
+	http://www.ipwithease.com/network-tap/
+
+A network tap is an external monitoring device that mirrors the traffic that passes between two network nodes. A tap (test access point) is a hardware device inserted at a specific point in the network to monitor data.
+
+## Netstat
+	http://www.thegeekstuff.com/2010/03/netstat-command-examples/
+
+## Reverse Engineering tools (find some)
+### Linux Distribution for Reverse Engineering?
+Kali-Linux has tools for Reverse Engineering (Awesome)
+
+	http://www.thegeekstuff.com/2012/03/reverse-engineering-tools/
+
+### static
+### dynamic
+
+## Python Tips
+	http://sahandsaba.com/thirty-python-language-features-and-tricks-you-may-not-know.html
+
+## Log Analysis (Not with Python)
+Mandiant Highlighter
+	https://www.fireeye.com/services/freeware/highlighter.html
+
 # Infrared Camera
 https://www.raspberrypi.org/learning/infrared-bird-box/worksheet/
 
@@ -10,6 +37,14 @@ https://www.raspberrypi.org/learning/infrared-bird-box/worksheet/
 	[?] Offsite Backup of Results?
 	[?] Facial Fingerprinting?
 	[?] Text Recognition? (ANTI-CAPTCHA)
+		https://github.com/tmbdev/ocropy/blob/master/README.md	
+		Used for scanning images for text		
+		Alternative text from image tool
+		https://code.google.com/archive/p/pytesser/
+
+## Relevant (COOL) Tutorials to learn from
+	http://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/
+	http://www.pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
 
 ## Technical Methods
 ### Motion
@@ -52,3 +87,6 @@ What is an SPF record in DNS? An SPF record is a type of Domain Name Service (DN
 
 ## Thoughts
 What is the intention with the end results; will I run all my email through here ?
+
+# Other Cool projects to try? (RaspiPi Cool Projects - check there)
+
